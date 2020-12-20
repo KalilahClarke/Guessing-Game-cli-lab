@@ -1,3 +1,66 @@
+Background Information:
+Install a Package: npm inti -y
+package json [allowing you to add packages to run using will be able to input things etc.] 
+
+.gitignore []
+
+
+Notes:
+const name =readLineSync.question ("What's your name?")
+console.log("hello" + name + "it's nice to meet you!")
+
+console.log("") //new line
+
+const answer = readLineSync.keyInYN (Do you like soccer?") 
+console.log(answer)
+
+
+ if (readLineSync.keyInYN (Do you like soccer?")){
+ console.log (Yeah, Beckham is the best")  
+ } else{
+   console.log(" I know and people think it's the same as footbal")
+ }
+
+ you think of a number between 1 and 1000, I get 15 guesses just tell me too high or too low
+
+ const play=()=>{
+
+  
+ }
+
+
+ const gameOver = (computerWin)=>{
+   if (computerWin){
+     console.log("I win")
+  )
+   }
+ }
+const startGame={} =>{
+  console.log(Think of a number between 1 and 10000)
+  let guessCount=15;
+  let bottom =1;
+  let top = 10_000;
+  While(guessCount > 0){
+const guess= Maath.floor((bottom+top)/2)
+console.log("my guess is, guess);
+
+  }
+  gameOver();
+}
+console.log ("Welcome")
+const leaveGame={}=>{
+  console.log("Sad to see you go!Good Luck in life")
+}
+
+
+
+
+
+
+
+
+
+
 Second Round
 [![Pursuit Logo](https://avatars1.githubusercontent.com/u/5825944?s=200&v=4)](https://pursuit.org)
 
